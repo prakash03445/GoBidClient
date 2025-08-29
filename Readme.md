@@ -8,3 +8,5 @@ Run the client with:
 
 ```bash
 go run main.go
+
+> ⚠️ Note: This CLI client currently lacks some features. For more control, you can use gRPC API tools like Postman or grpcurl. The client will be updated with more features soon.
